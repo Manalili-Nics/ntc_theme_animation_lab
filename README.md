@@ -1,4 +1,4 @@
-# ntc_theme_animation_lab
+# NTC_THEME_ANIMATION_LAB
 
 A new Flutter project.
 
